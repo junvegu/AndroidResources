@@ -29,7 +29,7 @@ Datos de respuesta exitosa
 #TRAER DATOS USUARIO
 
 API
-http://192.241.148.57:4000/api/users/users/{id}/
+http://192.241.148.57:4000/api/users/{id}/
 
 Por ejemplo
 http://192.241.148.57:4000/api/users/583e6dc8ff0dba0c1405cda6
