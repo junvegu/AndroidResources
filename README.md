@@ -1,8 +1,7 @@
 # Recursos Android para Curso introductorio a Android
 # Gobierno Regional del Callao
 
-API a trabajar
-
+API a trabajar (Autentificación por Token de acceso)
 #LOGIN
 http://192.241.148.57:4000/api/users/login
 
