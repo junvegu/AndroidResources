@@ -1,4 +1,4 @@
-# Recursos Android para Curso introductorio a Android
+# CJAVA: Recursos Android para el  curso introductorio a Android
 # Gobierno Regional del Callao
 
 API a trabajar (Autentificación por Token de acceso)
